@@ -82,3 +82,13 @@ section {
 	font-size: 30px;
 	color: #faa541;
 }
+
+.header-nav{
+	border-bottom:1px solid #a0a0a0;
+}
+
+.brand {
+	size: 170x85;
+	margin-left:-15px;
+	margin-right:60px;
+}
