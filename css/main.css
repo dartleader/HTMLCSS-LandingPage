@@ -112,6 +112,7 @@ section {
 	width:100px;
 	height:30px;
 	padding:0;
+	border:0;
 }
 
 .nav-list {
@@ -121,7 +122,9 @@ section {
 }
 
 .nav-list li a {
-	font: 16px uppercase 700;
+	font-size: 16px;
+	font-weight: 700;
+	text-transform:uppercase;
 	letter-spacing: 0.2px;
 }
 
@@ -132,7 +135,8 @@ section {
 .account {
 	text-align: right;
 	padding: 15px;
-	font: #364147 18px;
+	font-size: 18px;
+	color:#364147;
 }
 
 .account a {
