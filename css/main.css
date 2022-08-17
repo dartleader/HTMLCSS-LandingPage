@@ -41,3 +41,31 @@ section {
 .space-between {
 	justify-content:space-between;
 }
+
+.btn {
+	cursor: auto;
+	padding: 6px 12px 6px 12px;
+	line-height: 1.4;
+	border-radius: 3px;
+	border-style: none;
+}
+
+.btn-default {
+	cursor: auto;
+	padding: 6px 12px 6px 12px;
+	line-height: 1.4;
+	border-radius: 3px;
+	border-style: none;
+	color: white;
+	background-color: #faa541;
+}
+
+.btn-primary {
+	cursor: auto;
+	padding: 6px 12px 6px 12px;
+	line-height: 1.4;
+	border-radius: 3px;
+	border-style: none;
+	color: white;
+	background-color: #364147;
+}
