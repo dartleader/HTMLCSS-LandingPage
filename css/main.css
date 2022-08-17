@@ -163,7 +163,7 @@ section {
 
 .hero h1 {
 	position: relative;
-	position: -30px;
+	left: -30px;
 }
 
 .hero h2 {
