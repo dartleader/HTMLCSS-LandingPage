@@ -43,29 +43,19 @@ section {
 }
 
 .btn {
-	cursor: auto;
-	border-style: none;
-	padding: 6px 12px 6px 12px;
-	border-radius: 3px;
+	cursor: pointer;
+	border: 0;
+	padding: 6px 12px;
 	line-height: 1.4;
+	border-radius: 3px;
 }
 
 .btn-default {
-	cursor: auto;
-	padding: 6px 12px 6px 12px;
-	line-height: 1.4;
-	border-radius: 3px;
-	border-style: none;
 	color: white;
 	background-color: #faa541;
 }
 
 .btn-primary {
-	cursor: auto;
-	padding: 6px 12px 6px 12px;
-	line-height: 1.4;
-	border-radius: 3px;
-	border-style: none;
 	color: white;
 	background-color: #364147;
 }
