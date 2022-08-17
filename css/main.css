@@ -204,7 +204,7 @@ section {
 	line-height:1;
 }
 
-.banner-text > div :last-child {
+.banner-text>div :last-child {
 	font-size: 16px;
 	font-weight: 400;
 	margin-top: 5px;
